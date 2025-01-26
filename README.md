@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Mapari/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -51,6 +52,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Mapari/LeetCode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
