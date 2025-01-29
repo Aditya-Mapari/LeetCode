@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Mapari/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Mapari/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
