@@ -18,6 +18,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aditya-Mapari/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Math
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 | ------- |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
