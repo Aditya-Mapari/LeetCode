@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Mapari/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +57,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Mapari/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
