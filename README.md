@@ -24,6 +24,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +111,5 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
