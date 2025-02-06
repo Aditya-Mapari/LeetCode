@@ -1,51 +1,57 @@
 class Solution {
     public int maximumCount(int[] nums) 
     {
-       
-        int ipos = 0;
-        int ineg= 0;
-        int iRet = 0;
+       int lastnegIndex =  Lastnegative(nums) + 1;
+       int firstposIndex = nums.length - FirstPositive(nums);
 
-        for(int i = 0; i<nums.length; i++)
-        {
-            if(nums[i] !=0)
-            {
-                if(nums[i] < 0)
-                {
-                    ineg++;
-                }
-                else if(nums[i] > 0)
-                {
-                    ipos++;
-                }
-            }
-           
-        }
-        iRet =  iMax(ipos, ineg);
-        return iRet;
+        return  Math.max(lastnegIndex , firstposIndex);
 
     }
+    public int Lastnegative(int []nums)
+    {
+        int start = 0;
+        int end = nums.length-1;
+        int ans = -1;
 
-     int iMax(int a , int b)
+        while(start <= end)
         {
-            int iMax = 0;
-            if(a < 0)
-            {
-                a = a*-1;
+            
+            int iMid = (start + end)/2;
 
-            }
-             if( b < 0)
+            if(nums[iMid] < 0)
             {
-                b = b*-1;
-            }
-            else if(a >= b)
-            {
-                iMax = a;
+                ans =iMid;
+                start = iMid + 1;
             }
             else
             {
-                iMax = b;
+                end = iMid - 1;
             }
-           return iMax;
         }
+        return ans;
+    }
+
+    public int FirstPositive(int []nums)
+    {
+        int start = 0;
+        int end = nums.length-1;
+        int ans = nums.length;
+
+        while(start <= end)
+        {
+            
+            int iMid = (start + end)/2;
+
+            if(nums[iMid] > 0)
+            {
+                ans =iMid;
+                end = iMid - 1;
+            }
+            else
+            {
+                start = iMid +1;
+            }
+        }
+        return ans;
+    }
 }
