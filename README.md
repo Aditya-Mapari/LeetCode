@@ -122,4 +122,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aditya-Mapari/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aditya-Mapari/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
