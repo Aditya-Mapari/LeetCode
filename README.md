@@ -22,6 +22,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/Aditya-Mapari/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aditya-Mapari/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Aditya-Mapari/LeetCode/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -56,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aditya-Mapari/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aditya-Mapari/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -119,6 +122,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
