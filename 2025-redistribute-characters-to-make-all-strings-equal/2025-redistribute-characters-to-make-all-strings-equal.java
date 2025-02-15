@@ -1,0 +1,29 @@
+class Solution {
+    public boolean makeEqual(String[] words) 
+    {
+        int [] freq = new int[26];
+
+        for(int i = 0; i<words.length; i++)
+        {
+            String w = words[i];
+
+            for(int j = 0; j<w.length(); j++)
+            {
+                char ch = w.charAt(j);
+                int indx = (int)(ch - 'a');
+
+                freq[indx] = freq[indx] + 1;
+
+            }
+        }
+
+        for(int i = 0; i<26; i++)
+        {
+            if(freq[i] % words.length != 0)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+}
