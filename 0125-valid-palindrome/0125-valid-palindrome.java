@@ -32,10 +32,9 @@ class Solution {
 
         while(start < end)
         {
-            int sChar = sb.charAt(start);
-            int eChar = sb.charAt(end);
+            
 
-            if(sChar != eChar)
+            if(sb.charAt(start) != sb.charAt(end))
             {
                 return false;
             }
