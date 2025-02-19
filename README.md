@@ -123,6 +123,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1542-consecutive-characters](https://github.com/Aditya-Mapari/LeetCode/tree/master/1542-consecutive-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Greedy
@@ -131,6 +132,7 @@
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Mapari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aditya-Mapari/LeetCode/tree/master/0155-min-stack) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
