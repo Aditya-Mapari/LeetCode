@@ -28,6 +28,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aditya-Mapari/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1677-matrix-diagonal-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [1677-matrix-diagonal-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
