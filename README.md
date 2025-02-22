@@ -22,6 +22,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/Aditya-Mapari/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aditya-Mapari/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1127-last-stone-weight](https://github.com/Aditya-Mapari/LeetCode/tree/master/1127-last-stone-weight) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
