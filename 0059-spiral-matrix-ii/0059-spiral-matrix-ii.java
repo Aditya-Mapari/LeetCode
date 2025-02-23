@@ -40,17 +40,8 @@ class Solution {
             minCol++;
             maxCol--;
 
-            // for(int c5=minCol; c5<=maxCol; c5++)
-            // {
-            //     arr[minRow][c5] = count;
-            //     count++;
-            // }
             
-            // for(int c6 = minCol; c6<=maxCol; c6)
-            // {
-            //     arr[maxRow][c6] = count;
-            //     count++;
-            // }
+            
         }
         return arr;
     }
