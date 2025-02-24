@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aditya-Mapari/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aditya-Mapari/LeetCode/tree/master/0035-search-insert-position) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-Mapari/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-Mapari/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
