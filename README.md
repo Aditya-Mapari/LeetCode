@@ -67,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Mapari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aditya-Mapari/LeetCode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -177,4 +179,12 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
