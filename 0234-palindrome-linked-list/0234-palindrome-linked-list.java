@@ -11,25 +11,20 @@
 class Solution {
     public boolean isPalindrome(ListNode head) 
     {
-        Stack<Integer> st = new Stack<>();
+        StringBuilder s=new StringBuilder("");
 
         ListNode temp = head;
         while(temp != null)
         {
-            st.push(temp.val);
+          
+            s.append(Integer.toString(temp.val));
             temp = temp.next;
         }
-        temp = head;
-        while(temp != null)
+            System.out.println(s.toString());
+        if(s.toString().equals(s.reverse().toString()))
         {
-            if(temp.val != st.pop())
-            {
-                return false;
-               
-            }
-            temp = temp.next;
-            
-        }
         return true;
+        }
+        return false;
     }
 }
