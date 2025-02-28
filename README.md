@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0155-min-stack](https://github.com/Aditya-Mapari/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
