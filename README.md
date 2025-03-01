@@ -194,6 +194,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
