@@ -15,7 +15,7 @@ class Solution {
         {
             return head;
         }
-        ListNode oddhead = head;
+      ListNode  oddhead = head;
         ListNode evenhead = head.next;
         ListNode ptr1 = evenhead;
 
@@ -24,10 +24,10 @@ class Solution {
             oddhead.next = evenhead.next;
             oddhead = oddhead.next;
 
-           evenhead.next = oddhead.next;
-           evenhead = evenhead.next;
+            evenhead.next = oddhead.next;
+            evenhead = evenhead.next;
         }
-        
+
         oddhead.next = ptr1;
 
         return head;
