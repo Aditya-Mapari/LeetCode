@@ -83,6 +83,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
