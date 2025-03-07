@@ -207,6 +207,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aditya-Mapari/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0328-odd-even-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aditya-Mapari/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
