@@ -248,9 +248,19 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Aditya-Mapari/LeetCode/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Mapari/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Aditya-Mapari/LeetCode/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Mapari/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Aditya-Mapari/LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Aditya-Mapari/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
