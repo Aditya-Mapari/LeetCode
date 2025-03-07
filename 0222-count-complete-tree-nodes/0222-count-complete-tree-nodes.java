@@ -14,24 +14,21 @@
  * }
  */
 class Solution {
-
     public int countNodes(TreeNode root) 
     {
-     int count=0;
-        System.out.println("count ids "+count);
+        int count = 0;
         if(root == null)
         {
-            return 0 ;
+            return 0;
         }
         else
         {
-        count++; 
-        } 
+            count++;
+        }
 
-        count+= countNodes(root.left);
-        count+= countNodes(root.right);
+        int lnode = countNodes(root.left);
+        int rnode = countNodes(root.right);
 
-        
-        return count;
+        return lnode + rnode +1;
     }
 }
