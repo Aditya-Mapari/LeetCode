@@ -19,10 +19,7 @@ class Solution {
     {
         String longest = "";
 
-        if(s.length()== 1)
-        {
-            return s;
-        }
+        
 
         for(int i = 0; i<s.length(); i++)
         {
