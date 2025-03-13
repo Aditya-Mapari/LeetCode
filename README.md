@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
