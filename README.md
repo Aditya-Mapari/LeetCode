@@ -29,6 +29,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aditya-Mapari/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Aditya-Mapari/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -159,6 +160,7 @@
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-Mapari/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-Mapari/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aditya-Mapari/LeetCode/tree/master/0724-find-pivot-index) |
 ## String
 |  |
