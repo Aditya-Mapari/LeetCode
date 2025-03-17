@@ -54,6 +54,7 @@
 | [0007-reverse-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aditya-Mapari/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Mapari/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
