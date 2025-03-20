@@ -53,6 +53,7 @@
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
@@ -120,6 +121,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Mapari/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -183,6 +185,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Aditya-Mapari/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aditya-Mapari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aditya-Mapari/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aditya-Mapari/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
