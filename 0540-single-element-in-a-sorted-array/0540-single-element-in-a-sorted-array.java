@@ -1,13 +1,25 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) 
     {
-        int Xor = 0;
+        int max = 0;
+         for (int num : nums) {
+            max = Math.max(max, num);
+        }
+        int []arr = new int[max+1];
 
-        for(int i =0; i<nums.length; i++)
+        for(int i=0; i<nums.length; i++)
         {
-            Xor =Xor ^ nums[i];
+            arr[nums[i]]++; 
+           
+        }
+        for(int i =0; i<arr.length; i++)
+        {
+            if(arr[i] == 1)
+            {
+                return i;
+            }
         }
 
-        return Xor;
+        return 0;
     }
 }
