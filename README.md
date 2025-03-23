@@ -29,6 +29,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aditya-Mapari/LeetCode/tree/master/0724-find-pivot-index) |
@@ -116,6 +117,7 @@
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
