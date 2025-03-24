@@ -28,6 +28,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-Mapari/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
