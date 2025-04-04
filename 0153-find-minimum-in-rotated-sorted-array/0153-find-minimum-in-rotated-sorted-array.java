@@ -8,21 +8,23 @@ class Solution {
 
          int start = 0;
         int end = nums.length - 1;
-        
-        while (start < end) {
-            int mid = start + (end - start) / 2;
+        int ans = Integer.MAX_VALUE;
 
-            if (nums[mid] > nums[end]) {
-                // Minimum must be in the right part
-                start = mid + 1;
-            } else {
-                // Minimum could be mid or in the left part
-                end = mid;
+        while(start <= end)
+        {
+            int mid = (start + end)/2;
+
+            if(nums[start] <= nums[mid])
+            {
+                ans = Math.min(ans, nums[start]);
+                start = mid+1;
+            }
+            else
+            {
+                ans = Math.min(ans, nums[mid]);
+                end = mid-1;
             }
         }
-
-        return nums[start];
-
-        
+        return ans;
     }
 }
