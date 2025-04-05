@@ -1,13 +1,24 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) 
     {
-         int Xor = 0;
+       int start = 0;
+        int end = nums.length - 1;
 
-         for(int i = 0; i<nums.length; i++)
-         {
-                Xor = Xor ^ nums[i];
-         }
+        while (start < end) {
+            int mid = start + (end - start) / 2;
 
-         return Xor;
+            // Ensure mid is even
+            if (mid % 2 == 1) {
+                mid--;
+            }
+
+            if (nums[mid] == nums[mid + 1]) {
+                start = mid + 2;
+            } else {
+                end = mid;
+            }
+        }
+
+        return nums[start];
     }
 }
