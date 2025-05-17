@@ -59,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aditya-Mapari/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-Mapari/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Aditya-Mapari/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
