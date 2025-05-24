@@ -62,6 +62,7 @@
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aditya-Mapari/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
@@ -75,10 +76,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-Mapari/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
