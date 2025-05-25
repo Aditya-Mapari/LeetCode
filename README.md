@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Mapari/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Aditya-Mapari/LeetCode/tree/master/0242-valid-anagram) |
@@ -169,6 +171,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
@@ -178,6 +181,7 @@
 | [0141-linked-list-cycle](https://github.com/Aditya-Mapari/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Mapari/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aditya-Mapari/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -223,6 +227,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
