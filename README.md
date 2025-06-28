@@ -81,6 +81,7 @@
 | [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -116,6 +117,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0917-boats-to-save-people](https://github.com/Aditya-Mapari/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-Mapari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -219,6 +221,7 @@
 | [0242-valid-anagram](https://github.com/Aditya-Mapari/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/Aditya-Mapari/LeetCode/tree/master/1542-consecutive-characters) |
