@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Aditya-Mapari/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-Mapari/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
@@ -272,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
