@@ -1,16 +1,31 @@
 class Solution {
     public int findDuplicate(int[] arr) 
     {
-        Arrays.sort(arr);
-        for(int i=0;i<arr.length-1;i++)
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i:arr)
         {
-            if(arr[i]==arr[i+1])
+            if(map.containsKey(i))
             {
-                return arr[i];
+                return i;
+            }
+            else{
+                map.put(i,1);
             }
         }
         return -1;
     }
+    // public int findDuplicate(int[] arr) 
+    // {
+    //     Arrays.sort(arr);
+    //     for(int i=0;i<arr.length-1;i++)
+    //     {
+    //         if(arr[i]==arr[i+1])
+    //         {
+    //             return arr[i];
+    //         }
+    //     }
+    //     return -1;
+    // }
     // public int findDuplicate(int[] nums) 
     // {
     //     int element = 0;
