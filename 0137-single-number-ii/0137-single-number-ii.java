@@ -1,10 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) 
     {
-        int n = nums.length;
         Arrays.sort(nums);
+        int n = nums.length;
 
-        for(int i = 1; i<nums.length; i+=3)
+        for(int i = 1; i<nums.length; i +=3)
         {
             if(nums[i] != nums[i-1])
             {
