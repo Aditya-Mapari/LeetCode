@@ -386,4 +386,5 @@
 | [0175-combine-two-tables](https://github.com/Aditya-Mapari/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-Mapari/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Aditya-Mapari/LeetCode/tree/master/0182-duplicate-emails) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Aditya-Mapari/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
