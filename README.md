@@ -389,6 +389,7 @@
 | [0182-duplicate-emails](https://github.com/Aditya-Mapari/LeetCode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Aditya-Mapari/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aditya-Mapari/LeetCode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Aditya-Mapari/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Aditya-Mapari/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1258-article-views-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-Mapari/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
