@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Aditya-Mapari/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Aditya-Mapari/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0136-single-number) |
@@ -108,6 +109,7 @@
 | [0015-3sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aditya-Mapari/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Aditya-Mapari/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditya-Mapari/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya-Mapari/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Aditya-Mapari/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
