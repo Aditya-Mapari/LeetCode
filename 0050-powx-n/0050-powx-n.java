@@ -1,23 +1,20 @@
 class Solution {
     public double myPow(double x, int n) 
     {
-               if (n == 0) return 1;
-
-        long N = n; // Use long to handle Integer.MIN_VALUE
-        if (N < 0) {
+          long pow = n; // use long for safety
+        if (pow < 0) {
             x = 1 / x;
-            N = -N;
+            pow = -pow;
         }
 
-        double result = 1;
-        while (N > 0) {
-            if (N % 2 == 1) {
-                result *= x;
+        double ans = 1;
+        while (pow > 0) {
+            if ((pow & 1) == 1) { // if odd
+                ans *= x;
             }
-            x *= x;
-            N /= 2;
+            x *= x;   // square the base
+            pow >>= 1; // divide power by 2
         }
-        return result;
-
+        return ans;
     }
 }
