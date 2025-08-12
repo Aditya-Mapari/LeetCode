@@ -1,18 +1,40 @@
 class Solution {
     public String reverseWords(String s) 
     {
-        String[] arr = s.split("\\s+");
-       StringBuilder sobj = new StringBuilder("");
+        s = s.trim();
+        if(s.length() == 1)
+        {
+            return s;
+        }
+        
+        String []st = s.split(" ");
 
-       for(int i = arr.length-1; i>=0; i--)
-       {
-            sobj.append(arr[i]+" ");
-       }
-       String ans = sobj.toString();
+        ArrayList<String> al = new ArrayList<>();
 
-       ans = ans.trim();
-       return ans;
+        for(String sg : st)
+        {
+           if (!sg.isEmpty())
+            {
+                al.add(sg);
+            }
+        }
 
+        int left = 0;
+        int right = al.size() - 1;
+
+        while(left < right)
+        {
+            String temp = al.get(left);
+            al.set(left, al.get(right));
+            al.set(right, temp);
+
+            left++;
+            right--;
+        }
+
+        String result = String.join(" ",al);
+
+        return result;
        
     }
 }
