@@ -1,10 +1,7 @@
 class Solution {
    public boolean isPalindrome(String s)
    {
-        if(s.length() == 0 || s.length() == 1)
-        {
-            return true;
-        }
+        
         int left = 0;
         int right = s.length()-1;
 
