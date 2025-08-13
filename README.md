@@ -75,6 +75,7 @@
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -236,6 +237,7 @@
 | [0179-largest-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Aditya-Mapari/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Aditya-Mapari/LeetCode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -292,6 +294,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Aditya-Mapari/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aditya-Mapari/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Aditya-Mapari/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-Mapari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aditya-Mapari/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
