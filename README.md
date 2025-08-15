@@ -75,6 +75,7 @@
 | [0189-rotate-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Aditya-Mapari/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aditya-Mapari/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0415-add-strings) |
 | [1031-add-to-array-form-of-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -162,6 +163,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-Mapari/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Aditya-Mapari/LeetCode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -325,6 +327,7 @@
 | [0050-powx-n](https://github.com/Aditya-Mapari/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Aditya-Mapari/LeetCode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
