@@ -93,6 +93,7 @@
 | [0152-maximum-product-subarray](https://github.com/Aditya-Mapari/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Aditya-Mapari/LeetCode/tree/master/0342-power-of-four) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -214,6 +216,7 @@
 | [0496-next-greater-element-i](https://github.com/Aditya-Mapari/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-Mapari/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -249,6 +252,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/Aditya-Mapari/LeetCode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Mapari/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3194-find-words-containing-character](https://github.com/Aditya-Mapari/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Greedy
