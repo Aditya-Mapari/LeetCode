@@ -13,28 +13,31 @@ class Solution {
     {
        if(head == null)
        {
+        return head;
+       }
+       if(head.next == null)
+       {
             return null;
        }
+       int count = 0;
+       ListNode temp = head;
 
-       ListNode fast = head;
-       ListNode slow = head;
+       while(temp != null)
+       {
+            count++;
+            temp = temp.next;
 
-       while(n > 0)
-       {
-            fast = fast.next;
-            n--;
        }
-       if(fast == null)
-       {
-            return head.next;
+       int count1 = count - n;
+       if(count1 ==0 ){
+        return head.next;
        }
-
-       while(fast.next != null && fast != null)
+        temp = head;
+       for(int i = 0; i< count1-1 ; i++)
        {
-            fast = fast.next;
-            slow = slow.next;
+            temp = temp.next;
        }
-       slow.next = slow.next.next;
+       temp.next = temp.next.next;
 
        return head;
     }
