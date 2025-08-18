@@ -10,55 +10,55 @@
  * }
  */
 public class Solution {
-    public int CountNode(ListNode head)
-    {
-        int count = 0;
-        ListNode ptr3 = head;
-
-        while(ptr3 != null)
-        {
-            count++;
-            ptr3 = ptr3.next;
-        }
-        return count;
-    }
+    
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) 
     {
-        if(headA == null || headB == null)
+        ListNode first = headA;
+        ListNode second = headB;
+        int count1 = 0;
+        int count2 = 0;
+        
+        while(first != null)
         {
-            return null;
+            count1++;
+            first = first.next;
         }
-
-        int first = CountNode(headA);
-        int second = CountNode(headB);
-
-        int diff = first - second;
-
-        ListNode ptr1 = headA;
-        ListNode ptr2 = headB;
-
-        if(diff > 0)
+        while(second != null)
         {
-            while(diff > 0)
+            count2++;
+            second = second.next;
+        }
+        first = headA;
+        second = headB;
+        
+        if(count1 > count2)
+        {
+            int step = count1 - count2;
+            
+            for(int i = 0; i < step; i++)
             {
-                ptr1 = ptr1.next;
-                diff--;
+                first = first.next;
             }
         }
         else
         {
-            while(diff < 0)
+            int step = count2 - count1;
+            
+            for(int i = 0; i < step; i++)
             {
-                ptr2 = ptr2.next;
-                diff++;
+                second = second.next;
             }
         }
-
-        while(ptr1 != ptr2)
+        
+        while(first != null && second != null)
         {
-            ptr1 = ptr1.next;
-            ptr2 = ptr2.next;
+            if(first == second)
+            {
+                return first;
+            }
+            first = first.next;
+            second = second.next;
         }
-        return ptr1;
+        return null;
     }
 }
