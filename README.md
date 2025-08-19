@@ -59,6 +59,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-Mapari/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Aditya-Mapari/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-Mapari/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Aditya-Mapari/LeetCode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aditya-Mapari/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Aditya-Mapari/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-Mapari/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
