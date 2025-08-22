@@ -250,6 +250,7 @@
 | [0415-add-strings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Aditya-Mapari/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-Mapari/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aditya-Mapari/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -436,4 +437,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
