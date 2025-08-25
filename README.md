@@ -222,6 +222,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-Mapari/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-Mapari/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -261,6 +262,7 @@
 | [1542-consecutive-characters](https://github.com/Aditya-Mapari/LeetCode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aditya-Mapari/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Aditya-Mapari/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [3194-find-words-containing-character](https://github.com/Aditya-Mapari/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Greedy
@@ -279,6 +281,7 @@
 | [0169-majority-element](https://github.com/Aditya-Mapari/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Mapari/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aditya-Mapari/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Aditya-Mapari/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Aditya-Mapari/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aditya-Mapari/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aditya-Mapari/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
