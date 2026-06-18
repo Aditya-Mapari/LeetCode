@@ -1,45 +1,44 @@
 class Solution {
     public boolean isPalindrome(String s) 
     {
-        if(s.length() == 1)
-        {
-            return true;
-        }
+       if(s.length() == 0)
+       {
+        return true;
+       }
 
-        StringBuilder sb = new StringBuilder("");
-        for(int i = 0; i<s.length(); i++)
-        {
+       StringBuilder sb = new StringBuilder();
+
+       for(int i = 0; i<s.length(); i++)
+       {
             char ch = s.charAt(i);
-            if(ch>='a' && ch<='z')
+            if(ch>=65 && ch<=90 || ch>=97 && ch<=122 || ch>='0' && ch<='9')
             {
                 sb.append(ch);
             }
-            else if (ch>='A' && ch<='Z')
-            {
-                ch = (char)(ch + 32);
-                sb.append(ch);
-            }
-            else if(ch>='0' && ch<='9')
-            {
-                sb.append(ch);
-            }
-        }
-        
+            
+       }
 
-        int start  = 0;
-        int end = sb.length()-1;
+       String result = sb.toString();
+       result = result.toLowerCase();
 
-        while(start <= end)
+     
+
+       int start = 0;
+        int end = result.length()-1;
+
+        while(start < end)
         {
-            if(sb.charAt(start) != sb.charAt(end))
+            char ch = result.charAt(start);
+            char ch1 = result.charAt(end);
+
+            if(ch != ch1)
             {
                 return false;
             }
             start++;
             end--;
         }
-        
-
-        return true;
+       
+       return true;
     }
 }
